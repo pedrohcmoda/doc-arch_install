@@ -3,4 +3,4 @@
 
 	archlinux-2023.09.01-x86_64.iso
     
-    Pendrive bootavel criado com <a src="https://etcher.balena.io">balenaEtcher</a>
+    Pendrive bootavel criado com <html> <a src="https://etcher.balena.io">balenaEtcher</a> </html>
